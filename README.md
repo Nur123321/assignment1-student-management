@@ -30,3 +30,8 @@ with the highest credits.
 ```bash
 javac *.java
 java Main
+
+## Screenshots
+
+![OOP Screenshot](docs/screenshots/oopsc.png)
+
