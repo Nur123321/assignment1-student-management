@@ -20,7 +20,7 @@ It includes getters and setters, GPA validation, credit accumulation,
 honors status checking, and a clear `toString()` representation.
 
 ### Course Class
-The `Course` class represents a course and demonstrates composition
+The `Course` class represents a cour      se and demonstrates composition
 by storing an array of `Student` objects.
 It can add students, calculate average GPA, and find the student
 with the highest credits.
