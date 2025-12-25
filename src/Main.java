@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Main {
 
     public static void main(String[] args) {
@@ -82,6 +83,12 @@ public class Main {
         }
         return total;
     }
+=======
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+void main() {
+    System.out.println("Hello GitHub!");
+>>>>>>> 9aaefef (init)
 }
 
 // nurd
